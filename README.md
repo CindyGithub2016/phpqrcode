@@ -1,0 +1,2 @@
+# phpqrcode
+phpqrcode class 
